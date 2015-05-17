@@ -66,6 +66,10 @@ testData5$US <- factor(testData5$US, levels=c('浏览用户','关注用户','预
 p <- ggplot(testData5, aes(x=CC, y=User, fill=US)) + xlab('') + ylab('用户站比')
 p + geom_bar(stat='identity', width=.5, position='dodge')
 
+testData5$US <- factor(testData5$US, levels=c('一线城市','二线城市','三线城市'))
+p <- ggplot(testData5, aes(x=CC, y=User, fill=US)) + xlab('') + ylab('')
+p + geom_bar(stat='identity', width=.5)
+
 testData6 <- read.table('data/Media_3.txt', header=T)
 p <- ggplot(testData6, aes(x=CC, y=User)) + xlab('') + ylab('')
 p + geom_bar(stat='identity', width=.5, colour='grey', fill='grey')
@@ -75,3 +79,13 @@ testData7$UT <- factor(testData7$UT, levels=c('浏览用户', '关注用户','�
 p <- ggplot(testData7, aes(x=Focus, y=User.Percent, fill=UT)) + xlab('') + ylab('')
 p + geom_bar(stat='identity', width=.5)
 
+testData5 <- read.table('data/Media_5.txt', header=T)
+testData5$US <- factor(testData5$US, levels=c('一线城市','二线城市','三线城市'))
+p <- ggplot(testData5, aes(x=CC, y=User, fill=US)) + xlab('') + ylab('')
+p + geom_bar(stat='identity', width=.5)
+
+testData6 <- read.table('data/Media_6.txt', header=T)
+testData6$Mon <- levels(testData6$Mon, levels=c(1, 2, 3, 4, 5, 6))
+colnames(testData6) <- c('Mon', 'CS75', 'H6', 'X80')
+p <- ggplot(testData6, aes(x=Mon, y=CS75, group=CS75))
+p + geom_line()
