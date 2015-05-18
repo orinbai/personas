@@ -1,4 +1,7 @@
 library(ggplot2)
+library(grid)
+library(gridExtra)
+
 ### Setting Raw Protype ###
 testData <- read.table('data/car_setting.txt', stringsAsFactors = F)
 colnames(testData) <- testData[1,]
@@ -10,8 +13,6 @@ p <- ggplot(testData, aes(x=Series, y=Price)) + xlab('') + ylab('')
 p + geom_point(pch=1, cex=3) + geom_jitter(position=position_jitter(w=0.2, h=0.01), pch=20, cex=0.5, color='red') + facet_grid(.~Series, scale='free', space='free')
 
 ### V bar plot ###
-library(grid)
-library(gridExtra)
 testData2 <- read.table('data/user_2.txt', stringsAsFactors =F, header=T)
 testData2 <- as.data.frame(testData2)
 testData2$City <- factor(testData2$City, levels=c('一线城市', '二线城市', '三线城市'))
@@ -75,3 +76,18 @@ testData7$UT <- factor(testData7$UT, levels=c('浏览用户', '关注用户','�
 p <- ggplot(testData7, aes(x=Focus, y=User.Percent, fill=UT)) + xlab('') + ylab('')
 p + geom_bar(stat='identity', width=.5)
 
+### 补充百分比，需要给出具体数值，以便生成合理的策略 ###
+testData8 <- read.table('data/Media_6.txt', header=T, sep='\t')
+### Rebuild Data for Barplot ###
+testData8$CHsubUser <- testData8$UV_channel - testData8$UV_target
+testData8$UT <- c('目标用户')
+colnames(testData8)[2] <- 'UV'
+tmp <- as.data.frame(cbind(testData8$SC, c('其他用户'), testData8$CHsubUser))
+colnames(tmp) <- c('SC', 'UT', 'UV')
+levels(tmp$SC) <- levels(testData8$SC)
+testData8 <- testData8[,c(-3, -4)]
+testData8 <- rbind(testData8, tmp)
+testData8$UV <- as.integer(testData8$UV)/10000
+################################
+p <- ggplot(testData8, aes(x=SC, y=UV, fill=UT))
+p + geom_bar(stat='identity')
