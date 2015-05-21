@@ -91,3 +91,34 @@ testData8$UV <- as.integer(testData8$UV)/10000
 ################################
 p <- ggplot(testData8, aes(x=SC, y=UV, fill=UT))
 p + geom_bar(stat='identity')
+
+## Competitive Addict ##
+## Background Default Pic ##
+basedata <- read.table('data/competitive.txt', header=T)
+basedata$Cluster <- factor(basedata$Cluster, levels=c('低端车','经济型车','中端车','中高端车','豪车'))
+basedata$competitive <- basedata$Car/basedata$User
+legendLab <- paste(levels(basedata$Cluster), "\n", basedata$Car, '%')
+## To Write the Exactly Position of text, we have to add a cumulative percent ##
+Cumulative_1 <- function(x) {
+  tmpa = 0
+  tmpb = rep(0, length(x))
+  for (ele in 1:length(x)) {
+  tmpb[ele] = x[ele] + tmpa
+  tmpa = tmpa + x[ele]
+  }
+  tmpb
+}
+zo_trans <- function(x) {
+  return((x-min(x))/(max(x)-min(x)))
+}
+basedata$cumulative <- Cumulative_1(basedata$Car)
+p <- ggplot(data=basedata, aes(x=factor(1), y=Car, fill=zo_trans(competitive))) + scale_fill_continuous(low='white', high='red') + ggtitle('车型竞争环境')
+p + geom_bar(stat='identity', width=1) + geom_text(data=basedata, aes(y=cumulative-10,label=legendLab)) + coord_polar(theta="y") + ylab('') + xlab('')
+
+## Board of audition ##
+testdata7 <- read.table('data/user_4.txt', header=T)
+p <- ggplot(testdata7, aes(x=Car, y=User))
+fillcolor <- rep('grey', 6)
+fillcolor[levels(testdata7$Car) == '长安cs75'] <- 'red'
+p + geom_bar(stat='identity', fill=fillcolor, width=.6)
+
