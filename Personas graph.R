@@ -142,17 +142,14 @@ fillcolor[levels(tmpdata$Car) == target_car] <- 'red'
 p <- ggplot(tmpdata[tmpdata$Mon==6,], aes(x=Car, y=URL)) + ylab('') + xlab('') + theme_bw() +  scale_colour_identity()  + theme(axis.text.x = element_blank(), axis.ticks.x = element_blank())
 p + geom_text(aes(y=URL+1, color=fillcolor), label=levels(tmpdata$Car)) + geom_point(color=fillcolor, size=3,pch=20)
 
-p <- ggplot(tmpdata[tmpdata$Car=='长安CS75',][-1:-3,], aes(x=Mon, y=URL, group=Car))
-p <- p + geom_line()
-ggsave(p, file='a.png', width=20, height=11, unit='mm')
 ### every pic for brief trends ###
 dpic <- function(n) {
   p <- ggplot(n, aes(x=Mon, y=URL, group=Car)) + theme(panel.background=element_blank(), axis.title=element_blank(), axis.text=element_blank(), axis.ticks=element_blank(), axis.line=element_line(color='white'), line=element_line(color='white'))
 #  p <- p + geom_line(color='blue') + geom_point(fill='black', color='blue', pch=20, cex=0.2)
   p <- p + geom_smooth(color='blue', method='loess')
 }
-m = dpic(tmpdata[tmpdata$Car=='长安CS75',][-1:-3,])
-m
+#m = dpic(tmpdata[tmpdata$Car=='长安CS75',][-1:-3,])
+#m
 for (nam in levels(tmpdata$Car)) {
   fname = paste(nam, '.png', sep='')
   print(fname)
