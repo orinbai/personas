@@ -1,4 +1,12 @@
+#coding=utf8
 import xlrd
+
+## float not encode ##
+def typedetectiv(aa):
+    if type(aa) == float:
+        return str(aa)
+    else:
+        return aa
 
 ## Read All Conf ##
 age = {}
@@ -10,7 +18,8 @@ sc = {}
 wd = {}
 ci = {}
 city = {}
-conflist = {"Age.conf": age,"BuyBehavior.conf": bb,"Channel.conf": ch,"Gender.conf": gd,"Province.conf": pe,"subChannel.conf": sc,"Word.conf": wd, "CompetitiveWord.carVersusid.conf": ci, 'citi.conf':city}
+st = {}
+conflist = {"Age.conf": age,"BuyBehavior.conf": bb,"Channel.conf": ch,"Gender.conf": gd,"Province.conf": pe,"subChannel.conf": sc,"Word.conf": wd, "CompetitiveWord.carVersusid.conf": ci, 'citi.conf':city, 'Setting.conf':st}
 for everyconf in conflist:
     #print "="*10, everyconf, "="*10
     f = open("conf/%s" % everyconf)
@@ -25,8 +34,8 @@ for everyconf in conflist:
 
 TotalUserPcar = {}
 
-data = xlrd.open_workbook('CompetitiveWord.xls')
-table = data.sheet_by_name(u'Sheet1')
+data = xlrd.open_workbook('lingdu.xls')
+table = data.sheet_by_index(1)
 #print '\t'.join(table.row_values(0)).encode('utf8')
 tmp = []
 ### Gen Channel Report #1 ###
@@ -43,13 +52,16 @@ tmp = []
 #### Big Word ###
 tmpHash = {}
 #### Need a Sum of Users for EveryCar, Male(1) plus Female(2) ###
+f = open('aa.txt','w')
 for i in range(table.nrows):
-    tmpHash[table.row_values(i)[0]] = eval(table.row_values(i)[6])
+    if i == 0:
+        f.write('%s\n' % '\t'.join(map(lambda x: st[x].encode('utf8'), map(typedetectiv, table.row_values(i)))))
+        #pass
+    else:
+        #print type(table.row_values(i)[4]), str(table.row_values(i)[4])
+        f.write('%s\n' % '\t'.join(map(lambda x: x.encode('utf8'), map(typedetectiv, table.row_values(i)))))
+f.close()
 
-
-for car in tmpHash:
-    TotalUserPcar[car] = tmpHash[car]['1']['uv'] + tmpHash[car]['2']['uv']
-tmpHash.clear()
 #print TotalUserPcar
 
 #f = open('data/ca.csv', 'w')
@@ -103,12 +115,12 @@ tmpHash.clear()
 #            f.write('%s,%s,%s,%s\n' % (ci[car].encode('utf8'), age[ages].encode('utf8'), wd[word].encode('utf8'), tmpHash[car][ages]['pcontent'][word]['uv']))
 #f.close()
 
-f = open('data/bw.channel.csv', 'w')
-for i in range(table.nrows):
-    tmpHash[table.row_values(i)[0]] = eval(table.row_values(i)[10])
-
-for car in tmpHash:
-    if car == '01001001001.395': continue
-    for channel in sorted(tmpHash[car]):
-        print '%s, %s, %s' % (ci[car].encode('utf8'), ch[channel].encode('utf8'), tmpHash[car][channel]['uv'])
+#f = open('data/bw.channel.csv', 'w')
+#for i in range(table.nrows):
+#    tmpHash[table.row_values(i)[0]] = eval(table.row_values(i)[10])
+#
+#for car in tmpHash:
+#    if car == '01001001001.395': continue
+#    for channel in sorted(tmpHash[car]):
+#        print '%s, %s, %s' % (ci[car].encode('utf8'), ch[channel].encode('utf8'), tmpHash[car][channel]['uv'])
 
