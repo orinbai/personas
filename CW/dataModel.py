@@ -1,7 +1,8 @@
 #coding=utf8
 
 ## threshold: 60%  ##
-THRESHOLD = .6
+THRESHOLD = .7
+EPSILON = 0.0001 ## Avoid divide by zero ##
 ### colsum means sum by col, totalcars means the number of cars ###
 colsum = [0]*134
 totalcars = 0
@@ -12,6 +13,7 @@ header = line.strip().split('\t')[87:]
 del header[89:91]
 priceArray = [[] for i in range(len(header))]
 Terval = [[0]*2 for i in range(len(header))]
+SettingTerval = {}
 for line in f:
     ## start at 87th col ##
     lines = line.strip().split('\t')
@@ -34,6 +36,15 @@ for line in f:
     colsum = map(lambda x: x[0]+x[1], zip(colsum, lines))
 f.close()
 
+
+def priceWeight(price, dArray):
+    weightmp = [[header[i[0]], i[1]] for i in sorted([[n, Zerones(price, SettingTerval[header[n]])] for n in dArray], key=lambda x:x[1])]
+    print '\n'.join(['%s\t%2f' % (i[0], i[1]) for i in weightmp])
+
+
+def Zerones(price, interval):
+    return (price - interval[0])/(interval[1] - interval[0] + EPSILON)
+
 #print ','.join(filter(lambda x: x, map(lambda x: x[0]/90.0 > .6 and x[1], zip(colsum, header))))
 
 ## Computing Price Interval of Features ##
@@ -42,13 +53,32 @@ for n, priceTerval in enumerate(priceArray):
     if priceTerval:
         Terval[n][0] = min(priceTerval)
         Terval[n][1] = max(priceTerval)
-    try:
-        print header[n], Terval[n]
-    except:
-        print n, priceArray[n]
-        exit()
+#    try:
+#        print header[n], Terval[n]
+#    except:
+#        print n, priceArray[n]
+#        exit()
 
-## Gen Std. Setting ##
-settingstd = [n for n, item in enumerate(colsum) if item/90 > THRESHOLD]
+## Gen Standard Setting and Price Interval of Feature ##
+Settingstd = [n for n, item in enumerate(colsum) if item/90 > THRESHOLD]
+SettingTerval = dict(zip(header, Terval))
 
-## 
+#print ','.join(map(lambda x: header[x], settingstd))
+#exit()
+## Gen Summary Stat ##
+f = open('aa.txt')
+f.readline()
+for line in f:
+    lines = line.strip().split('\t')
+    price = float(lines[11])
+    cname = [lines[5], lines[7]]
+    lines = lines[87:]
+    del lines[89:91]
+    #print lines
+    #print ','.join(map(lambda x: header[x], filter(lambda x: x in settingstd, [n for n, item in enumerate(lines) if not float(item)])))
+    less = filter(lambda x: x in Settingstd, [n for n, item in enumerate(lines) if not float(item)])
+    more = filter(lambda x: not (x in Settingstd), [n for n, item in enumerate(lines) if float(item)])
+    #print ','.join([header[item] for n,item in enumerate(more)])
+    print cname[1], price, len(less), len(more)
+    priceWeight(price, more)
+f.close()

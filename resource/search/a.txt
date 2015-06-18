@@ -1,0 +1,583 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+    <meta http-equiv="x-ua-compatible" content="ie=emulateie7" />
+    <link href="css/autosearch_150113.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/autocomplate_sou_130415.js?V2"></script>
+    <script type="text/javascript" src="js/tooltips_130501.js?m8"></script>
+    <meta name="viewport" content="width=device-width" />
+    <title>奥迪R8 上市_文章搜索_汽车之家</title>
+</head>
+    <body>
+  <style type="text/css">
+  .caricon li a,div.hotcitybox,.mini_main em,.caricon li a em,.citypop .citypop-content .citypop-close i,.citypop-search,.citypop-ct .zdicon,.citypop-ct .ntextdicon,.frs,.mini_right i{background:url(http://www.autohome.com.cn/Images/index/headericonNew.png?v1) no-repeat;}.citypop,.dropdown,.topchadiv_box,.topchadiv_top,.moreli_active{background:url(http://www.autohome.com.cn/images/shadow_bg.png) repeat;}.clearfloat{clear:both;height:0;font-size:1px;line-height:0;}.mini_right ul li.nopd{padding:0;}.minitop{height:26px;line-height:26px;background-color:#f9f9f9;border-bottom:solid 1px #efefef;border-top:solid 1px #f9f9f9;position:relative;z-index:11000;}.minitop a:link,.minitop a:visited,.citycon a.a1:link,.citycon a.a1:visited{text-decoration:none;outline:none;}.mini_main{min-width:976px;height:26px;color:#9f9f9f;text-align:left;padding:0 2px 0 12px;margin:0 auto;position:relative;z-index:220;background-color:#f9f9f9;}.mini_left,.mini_right{position:relative;}.mini_left{float:left;z-index:30;}.mini_right{float:right;text-align:right;z-index:25;}.mini_left ul li,.mini_right ul li{float:left;position:relative;}.mini_left ul li span{padding:0 5px;}.mini_left_logo{display:inline-block;padding-top:4px;}.mini_right .frs{float:right;background-position:-335px 7px;font-family:Arial,Helvetica,sans-serif;}.mini_right ul.frs-login{background-image:none;padding-right:12px;}.mini_right ul.frs-login a{padding:0 2px;}.mini_right i{display:inline-block;width:16px;height:15px;float:left;position:relative;top:6px;top:5px\9;}.mini_right .icon-more{background-position:-320px -87px;margin-right:2px;}.mini_right li a:hover .icon-more,.moreli_active .icon-more{background-position:-320px -108px;}.mini_right .icon-club{background-position:-320px -34px;margin-right:5px;}.mini_right li a:hover .icon-club,.moreli_active .icon-club{background-position:-320px -60px;}.moreli_title{border-right:solid 1px #f9f9f9;padding-left:1px;}.moreli_active{border:none;padding-left:0;}.moreli_active a{border-left:solid 1px #ccd3e4;border-right:solid 1px #ccd3e4;background-color:#F9F9F9;}.moreli_active a:link,.moreli_active a:visited,.moreli_active a:hover{color:#d60000;}.mini_main .moreli_active em{background-position:-240px -176px;}.mini_main em,.caricon li a em,.bbsli_title em{display:inline-block;width:7px;height:4px;font-size:0;background-position:-240px -170px;}.cityli_title a:hover em,.cityli_title span:hover em,.moreli_title:hover em,.caricon li a:hover em,.bbsli_title:hover em{background-position:-240px -176px;}.mini_left ul li .cityli_title span{padding:0;}.cityli_title span,.cityli_title em{float:left;cursor:pointer;}.mini_main .moreli_title em{position:relative;top:12px;margin-left:5px;}.caricon li a em{margin-left:5px;position:relative;bottom:1px;}.dropdown{width:76px;position:absolute;left:-1px;top:43px;padding:0 2px 2px 2px;display:none;z-index:10000;}.dropdown dl{border:solid 1px #ccd3e3;background-color:#fff;}.dropdown dl dd a{display:block;background:none;text-align:left;height:27px;line-height:27px;color:#666666;text-decoration:none;padding:0 6px;}.dropdown dl dd a:hover{background-color:#f1f5f8;color:#3b589a;}.ahover em{background-position:-756px -101px;}.cslbtt a{margin-right:8px;}.cityli,.moveli,.moreli,.bbsli{position:relative;}.moreli_title,.bbsli_title{position:relative;z-index:20;text-align:left;}.moreli_title i,.moreli_title span,.moreli_title em{float:left;cursor:pointer;}.moreli_title span.info{display:inline-block;height:11px;padding:2px 3px;text-align:center;line-height:11px;background-color:#fe6600;border-radius:2px;color:#fff;position:relative;top:5px;margin:0 1px 0 5px;font-weight:bold;}.cityli_title{width:38px;padding-left:8px;z-index:30;position:relative;text-align:left;}.mini_main .cityli_title em{position:relative;top:11px;margin-left:5px;}.bbsli_title{width:62px;padding-left:3px;}.cityli_title a,.moreli_title a,.bbsli_title a{display:block;height:26px;}.moreli_title a{display:inline-block;padding:0 15px;}.topchadiv{position:absolute;right:-2px;top:27px;z-index:10;display:none;}.topchadiv-dw02,.topchadiv-dw03{_right:-3px;}.topchadiv_top,.topchadiv_box{padding:0 2px 2px 0;clear:both;}.topchadiv_top{width:4px;padding-bottom:0;position:absolute;right:0;top:-27px;background-color:#fafafa;}.topchadiv_top_con{width:2px;height:27px;}.topchadiv_box{position:relative;top:-1px;}.topchadiv-dw01 .topchadiv_box{width:110px;}.topchadiv-dw02 .topchadiv_box{min-width:130px;overflow:visible;_width:130px;}.topchadiv-dw03 .topchadiv_box{width:210px;}.topchadiv_con{border:solid 1px #ccd3e4;background-color:#FFFFFF;line-height:20px;text-align:left;padding:5px 0;}.topchadiv_con a{display:block;height:27px;line-height:27px;white-space:nowrap;padding:0 15px;overflow:hidden;}.topchadiv_con a:link,.topchadiv_con a:visited,.topchadiv_con a:hover{color:#666666;}.topchadiv_con a span{display:inline-block;}.topchadiv_con a span.cn{color:#666666;float:left;}.topchadiv_con a span.ck{cursor:pointer;float:right;}.mini_right .frs li .topchadiv_con a:hover{color:#3b5998;background-color:#f9f9f9;}.linedc{border-top:dotted 1px #cecece;height:1px;clear:both;font-size:0;margin:5px;line-height:0;}.topchadiv-dw02 .topchadiv_con a{min-width:120px;overflow:visible;}.topchadiv-dw03 .topchadiv_con a{padding:0 10px;}.topchadiv-dw03 .topchadiv_con a:link,.topchadiv-dw03 .topchadiv_con a:visited,.topchadiv-dw03 .topchadiv_con a:hover{color:#3b5998;}.nav_box dd a:hover,a.reda:link,a.reda:visited,a.reda:hover,a.reda2:link,a.reda2:visited,.nav_box dd .nav_text a:hover{color:#d60000;}.nav_box dd a:link,.nav_box dd a:visited{color:#ffffff;text-decoration:none;}
+</style>
+<script type="text/javascript">
+    var $ = function (id) {
+        return "string" == typeof id ? document.getElementById(id) : id;
+    };
+    function areamoreover() {
+        document.getElementById("areamore").style.display = 'block';
+    }
+    var temp;
+    function areamoremove(obj) {
+        if (obj == 1) {
+            temp = setTimeout("document.getElementById('areamore').style.display='none'", 1000);
+        }
+        else {
+            clearTimeout(temp);
+            document.getElementById("areamore").style.display = 'none';
+        }
+    };
+    var isBrowerOpen = true;
+
+</script>
+<!--迷你导航开始-->
+
+<div class="minitop">
+  <div class="mini_main">
+    <div class="mini_left">
+      <ul>
+        <li>
+          <a href="http://www.autohome.com.cn/" target="_self">&lt;&lt; 汽车之家首页</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="mini_right">
+      <ul class="frs ">
+        <li class="moreli">
+          <div class="moreli_title">
+            <a href="javascript:void(0);" target="_self">
+              <i class="icon-more"></i>
+              <span>更多应用</span>
+              <em></em>
+            </a>
+          </div>
+          <!--更多切换层开始-->
+          <div class="topchadiv topchadiv-dw01">
+            <div class="topchadiv_top">
+              <div class="topchadiv_top_con"></div>
+            </div>
+            <div class="topchadiv_box">
+              <div class="topchadiv_con">
+                <a href="http://www.autohome.com.cn/buycar.html" target="_blank">购车计算器</a>
+                <a href="http://www.autohome.com.cn/channel2/MaintenanceCars/Violation.aspx" target="_blank">违章查询</a>
+                <a href="http://car.autohome.com.cn/zhaoche/jiage/" target="_blank">按价格找车</a>
+                <a href="http://car.autohome.com.cn/zhaoche/pinpai/" target="_blank">按品牌找车</a>
+                <div class="linedc"></div>
+                <a href="http://ics.autohome.com.cn/#pvareaid=104317" target="_blank">i车商</a>
+                <a href="http://www.che168.com/" target="_blank">二手车之家</a>
+                <a href="http://www.pcpop.com" target="_blank">泡泡网</a>
+                <a href="http://www.it168.com" target="_blank">IT168</a>
+              </div>
+            </div>
+          </div>
+          <!--更多切换层结束-->
+        </li>
+      </ul>
+      <ul class="frs" id="clubInfo">
+        <li>
+          <div class="moreli_title"><a href="http://club.autohome.com.cn/?pvareaid=101645" target="_blank"><i class="icon-club"></i><span>进入论坛</span><em></em></a></div>
+          <div class="topchadiv topchadiv-dw02"><div class="topchadiv_top"><div class="topchadiv_top_con"></div></div>
+          <div class="topchadiv_box"><div class="topchadiv_con" id="bbsList">加载中...</div></div></div>
+        </li>
+      </ul>
+      
+      <ul class="frs" id="homeInfo">
+        <li>
+          <div class="moreli_title">
+            <a href="javascript:void(0);" target="_self">
+              <span>消息</span>
+              <span class="" id="InfoId"></span>
+              <em></em>
+            </a>
+          </div>
+          <!--更多切换层开始-->
+          <div class="topchadiv topchadiv-dw03">
+            <div class="topchadiv_top">
+              <div class="topchadiv_top_con"></div>
+            </div>
+            <div class="topchadiv_box">
+              <div class="topchadiv_con" id="dataInfo">
+              </div>
+            </div>
+          </div>
+          <!--更多切换层结束-->
+        </li>
+      </ul>
+      <ul class="frs frs-login" id="login">
+      </ul>
+    </div>
+  </div>
+</div>
+<!--迷你导航结束-->
+
+
+<script type="text/javascript">
+     (function (window, undefined) { var auto = (function () { var document = window.document; var auto = function (selector) { return new auto.fn.init(selector) }; auto.fn = auto.prototype = { elem: null, init: function (selector) { this.length = 1; this[0] = "string" == typeof selector ? document.getElementById(selector) : selector; this.elem = this[0] } }; auto.extend = auto.fn.extend = function () { var target = arguments[0] || {}, i = 1, length = arguments.length, deep = false, options; if (typeof target === "boolean") { deep = target; target = arguments[1] || {}; i = 2 }; if (typeof target !== "object" && !typeof target === "function") target = {}; if (length == i) { target = this; --i }; for (; i < length; i++) { if ((options = arguments[i]) != null) { for (var name in options) { var src = target[name], copy = options[name]; if (target === copy) { continue }; if (deep && copy && typeof copy === "object" && !copy.nodeType) { target[name] = auto.extend(deep, src || (copy.length != null ? [] : {}), copy) } else { if (copy !== undefined) { target[name] = copy } } } } }; return target }; auto.fn.init.prototype = auto.fn; return auto })(); auto.extend({ isArray: function (o) { return Object.prototype.toString.call(o) == "[object Array]" }, isMouseLeaveOrEnter: function (e, handler) { if (e.type !== 'mouseout' && e.type !== 'mouseover') { return false }; var reltg = e.relatedTarget ? e.relatedTarget : (e.type === 'mouseout' ? e.toElement : e.fromElement); while (reltg && reltg !== handler) { reltg = reltg.parentNode }; return (reltg !== handler) }, ready: function (fn) { document.onreadystatechange = function () { if (document.readyState === "complete") fn() } }, cookie: { set: function (name, value, option) { var str = name + '=' + encodeURIComponent(value); if (option) { if (option.expireHours) { var d = new Date(); d.setTime(d.getTime() + option.expireHours * 3600 * 1000); str += '; expires=' + d.toGMTString() }; if (option.path) str += '; path=' + option.path; else str += '; path=/'; if (option.domain) str += '; domain=' + option.domain; if (option.secure) str += '; true' }; document.cookie = str }, get: function (name, defval) { var nameEQ = name + "="; var ca = document.cookie.split(';'); for (var i = 0; i < ca.length; i++) { var c = ca[i]; while (c.charAt(0) == ' ') c = c.substring(1, c.length); if (c.indexOf(nameEQ) == 0) return decodeURIComponent(c.substring(nameEQ.length, c.length)) }; return typeof defval == "undefined" ? null : defval }, del: function (name) { var exp = new Date(); exp.setTime(exp.getTime() - 1); var cval = this.get(name); if (cval != null) document.cookie = name + "=" + cval + ";expires=" + exp.toGMTString() } }, jsLoad: function () { var scr, fn, args = [], length = arguments.length; if (length == 1) { target = arguments[0] || {}; if (typeof target == "object") { src = target.url; fn = target.fn; args = target.args } } else { src = arguments[0]; fn = arguments[1]; for (var i = 0; i < length - 2; i++) { args[i] = arguments[i + 2] } }; s = document.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", src); s.onload = s.onreadystatechange = function () { if (!s.readyState || s.readyState == "loaded" || s.readyState == "complete") { if (typeof fn == "function") fn.apply(this, args); s.onload = s.onreadystatechange = null; try { s.parentNode && s.parentNode.removeChild(s) } catch (e) { } } }; document.getElementsByTagName("head")[0].appendChild(s) }, waitTime: function (fn, s) { var waitInterval, args = [], length = arguments.length; if (length > 2) { if (length == 3) { if (auto.isArray(arguments[2])) { args = arguments[2] } } else { for (var i = 0; i < length - 2; i++) { args[i] = arguments[i + 2] } } }; clearTimeout(waitInterval); waitInterval = window.setTimeout(function () { fn.apply(this, args) }, s) }, binds: function (target, eventName, handler, args) { var eventHandler = handler; if (args) { eventHander = function (e) { handler.call(args, e) } }; if (window.addEventListener) { if (eventName.substring(0, 2) == "on") eventName = eventName.substring(2, eventName.length); target.addEventListener(eventName, eventHandler, false) } else if (window.attachEvent) { if (eventName.substring(0, 2) != "on") eventName = "on" + eventName; target.attachEvent(eventName, eventHandler) } }, mouseHover: function (f, c, s) { var fn, args = [], length = arguments.length, fo = auto(f), co = auto(c); if (fo == null || co == null) return; fn = length > 3 ? arguments[3] : function () { }; this.binds(fo[0], "onmouseover", function () { fn(); s == 0 ? co.show() : auto.waitTime(function () { co.show() }, s) }); this.binds(fo[0], "onmouseout", function () { s == 0 ? co.hide() : auto.waitTime(function () { co.hide() }, s) }) }, mouseClick: function (f, c, ch, s) { var fn, args = [], length = arguments.length, fo = auto(f), co = auto(c), cho = auto(ch); if (fo == null || co == null || cho == null) return; fn = length > 4 ? arguments[4] : function () { }; this.binds(cho[0], "onclick", function () { fn(); s == 0 ? co.target() : auto.waitTime(function () { co.target() }, s) }); this.binds(fo[0], "onmouseout", function (evt) { if (auto.isMouseLeaveOrEnter(evt, fo[0])) { s == 0 ? co.hide() : auto.waitTime(function () { co.hide() }, s) } }) } }); auto.fn.extend({ show: function () { this.elem.style.display = "block" }, hide: function () { this.elem.style.display = "none" }, target: function () { this.elem.style.display == "" || this.elem.style.display == "block" ? this.hide() : this.show() }, html: function (val) { if (val) { this.elem.innerHTML = val } else { return this.elem.innerHTML } }, attr: function (name) { var val = arguments[1]; if (val) { this.elem.attributes(name, val) } else { return this.elem.getAttribute(name) } }, css: function (val) { if (val) { this.elem.className = val } else { return this.elem.className } }, click: function (fn) { this.elem.onclick = function () { fn() } }, href: function (url) { if (url) { this.elem.href = url } else { return this.elem.href } } }); auto.extend({ home: { waitTime: [0, 300, 250], homeUrl: "http://www.autohome.com.cn/", clubUrl: "http://club.autohome.com.cn/", clubServUrl: "http://club.service.autohome.com.cn/", newServUrl: "http://news.service.autohome.com.cn/", nowUrl: encodeURIComponent(location.href), ocid: auto.cookie.get("cityId") ? parseInt(auto.cookie.get("cityId")) : 0, ccid: auto.cookie.get("cookieCityId") ? parseInt(auto.cookie.get("cookieCityId")) : 0, areaid: parseInt(auto.cookie.get("area")) ? parseInt(auto.cookie.get("area")) : 0, cid: auto.cookie.get("cookieCityId") == null || auto.cookie.get("cookieCityId") == 0 ? (auto.cookie.get("area") ? parseInt(auto.cookie.get("area") / 100) * 100 : 0) : parseInt(auto.cookie.get("cookieCityId")), getUserArea: function (cid) { }, areaCookie: function () { var r = true; if (typeof arguments[0] == "boolean") { r = arguments[0] }; expire = arguments[1] ? arguments[1] : { expireHours: 36000 * 24, domain: ".autohome.com.cn" }; this.set = function (cityName, oldCityId, newCityId) { auto.cookie.del("cityId"); auto.cookie.del("cookieCityId"); auto.cookie.set("cityId", oldCityId, expire); auto.cookie.set("cookieCityId", newCityId, expire); auto("hidcid")[0].value = newCityId; if (r) { window.location.reload() } else { changArea(newCityId); auto.home.getUserArea(newCityId); auto("changediv").hide(); auto("changediv").html(GetCityHtml(auto("hidcid")[0].value)) } } } } }); window.auto = auto })(window); Function.prototype.bind = function (bindObj, args) { var _self = this; return function () { return _self.apply(bindObj, [].concat(args)) } }; function readCookie(name, defauleValue) { var nameEQ = name + "="; var ca = document.cookie.split(';'); for (var i = 0; i < ca.length; i++) { var c = ca[i]; while (c.charAt(0) == ' ') c = c.substring(1, c.length); if (c.indexOf(nameEQ) == 0) return decodeURIComponent(c.substring(nameEQ.length, c.length)) }; return typeof defauleValue != "undefined" ? defauleValue : null }; function AutohomeJsLoad(args) { var s = document.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", args.url); s.onload = s.onreadystatechange = function () { if (!this.readyState || this.readyState == "loaded" || this.readyState == "complete") { if (typeof args.callBack == "function") args.callBack(args.args); s.onload = s.onreadystatechange = null; try { s.parentNode && s.parentNode.removeChild(s) } catch (e) { } } }; document.getElementsByTagName("head")[0].appendChild(s) }; Function.prototype.bind = function (bindObj, args) { var _self = this; return function () { return _self.apply(bindObj, [].concat(args)) } }; function AutoUserFct() { this.init() }; AutoUserFct.prototype = { sopClubUrl: auto.home.newServUrl + "header/AjaxHeadClub.ashx?OperType=GetClubList&VarName=UserClubList&timestamp=" + Math.random(), logUrl: "http://account.autohome.com.cn/?backurl=" + auto.home.nowUrl, userUrl: "http://i.autohome.com.cn", regUrl: "http://account.autohome.com.cn/register?backurl=" + auto.home.nowUrl, upgradeUrl: "http://account.autohome.com.cn/Upgrade?backurl=" + auto.home.nowUrl, isLogIn: false, UC: null, UID: null, UP: null, UN: null, clubUserShow: null, isLoadOver: false, logoffArray: [], loginArray: [], LoginDIV: document.getElementById("login"), isNeedAddCookie: function () { var tempClubUserShow = readCookie("clubUserShow"); if (tempClubUserShow == null) { return true } else { return false } }, isShowUserHeader: function () { var tempClubUserShow = readCookie("clubUserShow"); if (tempClubUserShow != null) { this.clubUserShow = tempClubUserShow.split("|"); this.UN = this.clubUserShow[3]; this.UP = parseInt(this.clubUserShow[2]); this.UID = this.clubUserShow[0]; return true } else { return false } }, init: function () { this.isLoadOver = false; window.onfocus = openFun; window.onblur = closeFun; if (readCookie("clubUserShow") != null) { this.isLogIn = true; this.showPageHeader(); if (this.isNeedAddCookie()) { AutohomeJsLoad({ url: "http://account.autohome.com.cn/addcookie/CookieRepair", callBack: function () { }.bind(this, []) }) } else { } } else { this.showPageHeader() } }, getClubList: function (uid) { uid = uid ? uid : this.UID; if (uid) { AutohomeJsLoad({ url: this.sopClubUrl, callBack: function () { html = ""; if (typeof UserClubList != "undefined") { if (UserClubList.Status) { if (UserClubList.ClubCount > 0) { var arrClub = UserClubList.ClubList; for (var i = 0; i < arrClub.length; i++) { html += "<a href=\"" + auto.home.clubUrl + "bbs/forum-c-" + arrClub[i].seriesid + "-1.html?pvareaid=101647\" target=\"_blank\">" + arrClub[i].seriesname + "论坛</a>" } } } } html += "<a href=\"" + auto.home.clubUrl + "bbs/forum-a-" + (100000 + AutohomeUserInfo.UP) + "-1.html?pvareaid=101647\"target=\"_blank\">我的地区论坛</a>"; auto("bbsList").html(html) }.bind(this, []) }) } }, getCookieClubList: function () { if (readCookie("historybbsName4") != null) { var historybbs = readCookie("historybbsName4"); var historystr = ''; html = ""; if (historybbs.indexOf(",") > 0) { historystr = historybbs.split(","); for (var i = historystr.length; i > (historystr.length > 7 ? (historystr.length - 7) : 0) ; i--) { html += "<a href=\"" + auto.home.clubUrl + "bbs/forum-" + historystr[i - 1].split("|")[0] + "-1.html?pvareaid=101646\" target=\"_blank\">" + historystr[i - 1].split("|")[1] + "论坛</a>" } } else { historystr = historybbs.split("|"); html += "<a href=\"" + auto.home.clubUrl + "bbs/forum-" + historystr[0] + "-1.html?pvareaid=101646\" target=\"_blank\">" + historystr[1] + "论坛</a>" } auto("bbsList").html(html); auto("clubInfo").show() } else { auto("clubInfo").hide() } }, getHomeList: function () { AutohomeJsLoad({ url: 'http://msg.autohome.com.cn/clubalert?callback=jsonpCallbackInfo&uid=' + readCookie("clubUserShow").split("|")[0] + "&timestamp=" + Math.random(), callBack: function () { } }) }, showPageHeader: function () { if (!this.isShowUserHeader()) { htmlMain = "<li><div class=\"moreli_title\">您好！请&nbsp;<a href=\"" + this.logUrl + "\" target=\"_self\">登录</a>&nbsp;或&nbsp;<a href=\"" + this.regUrl + "\" target=\"_self\">注册</a></div></li>"; this.getCookieClubList(); auto("homeInfo").hide() } else { htmlMain = "<li><div class=\"moreli_title\">您好！<a href=\"" + this.userUrl + "\" target=\"_blank\" class=\"reda\">" + this.UN + "</a>&nbsp;<a href=\"javascript:AutohomeUserInfo.logoff()\" target=\"_self\">退出</a></div></li>"; this.getHomeList(); this.getClubList(); auto("clubInfo").show(); auto("homeInfo").show() } this.onlogin(); this.LoginDIV.innerHTML = htmlMain }, logoff: function () { this.isLogIn = false; this.isLoadOver = false; window.clearInterval(clearIntervar); AutohomeJsLoad({ url: "http://account.autohome.com.cn/login/logoutjson?backvar=autologinout&timestamp=" + Math.random(), callBack: function () { this.logoffHTML(); this.onlogoff(); this.getCookieClubList(); auto("homeInfo").hide() }.bind(this, []) }); AutohomeJsLoad({ url: "http://account.che168.com/login/logoutjson?backvar=cheloginout&timestamp=" + Math.random(), callBack: function () { }.bind(this, []) }) }, logoffHTML: function () { this.isLogIn = false; this.isLoadOver = true; this.LoginDIV.innerHTML = "<li><div class=\"moreli_title\">您好！请&nbsp;<a href=\"" + this.logUrl + "\" target=\"_self\">登录</a>&nbsp;或&nbsp;<a href=\"" + this.regUrl + "\" target=\"_self\">注册</a></div></li>" }, onlogoff: function () { for (var i = 0, length = this.logoffArray.length; i < length; i++) { if (typeof this.logoffArray[i] == "function") try { this.logoffArray[i]() } catch (err) { } } }, onlogin: function () { this.isLoadOver = true; for (var i = 0, length = this.loginArray.length; i < length; i++) { if (typeof this.loginArray[i] == "function") try { this.loginArray[i]() } catch (err) { } } }, onloginAdd: function (fun) { if (typeof fun == "function" && this.isLoadOver) { try { fun() } catch (err) { } } this.loginArray.push(fun) }, onlogoffAdd: function (fun) { if (typeof fun == "function" && this.isLoadOver) { try { fun() } catch (err) { } } this.logoffArray.push(fun) } }; var AutohomeUserInfo = new AutoUserFct(); function jsonpCallbackInfo(data) { var html = "", temp = ""; data.NewReply > 0 ? (data.NewReply > 99 ? html += "<a href=\"http://i.autohome.com.cn/receivereply/?pvareaid=101298\" target=\"_blank\"><span class=\"cn\">99+条新论坛回复</span><span class=\"ck\">查看论坛回复</span></a>" : html += "<a href=\"http://i.autohome.com.cn/receivereply/?pvareaid=101298\" target=\"_blank\"><span class=\"cn\">" + data.NewReply + "条新论坛回复</span><span class=\"ck\">查看论坛回复</span></a>") : temp += "<a href=\"http://i.autohome.com.cn/receivereply/?pvareaid=101606\" target=\"_blank\">查看论坛回复</a>"; data.commentreply > 0 ? (data.commentreply > 99 ? html += "<a href=\"http://i.autohome.com.cn/inbox/?pvareaid=101482\" target=\"_blank\"><span class=\"cn\">99+条新评论回复</span><span class=\"ck\">查看评论回复</span></a>" : html += "<a href=\"http://i.autohome.com.cn/inbox/?pvareaid=101482\" target=\"_blank\"><span class=\"cn\">" + data.commentreply + "条新评论回复</span><span class=\"ck\">查看评论回复</span></a>") : temp += "<a href=\"http://i.autohome.com.cn/inbox/?pvareaid=101607\" target=\"_blank\">查看评论回复</a>"; data.NewComment > 0 ? (data.NewComment > 99 ? html += "<a href=\"http://i.autohome.com.cn/club/record_comment/?pvareaid=101299\" target=\"_blank\"><span class=\"cn\">99+条新话说评论</span><span class=\"ck\">查看话说评论</span></a>" : html += "<a href=\"http://i.autohome.com.cn/club/record_comment/?pvareaid=101299\" target=\"_blank\"><span class=\"cn\">" + data.NewComment + "条新话说评论</span><span class=\"ck\">查看话说评论</span></a>") : temp += "<a href=\"http://i.autohome.com.cn/club/record_comment/?pvareaid=101608\" target=\"_blank\">查看话说评论</a>"; data.NewLetter > 0 ? (data.NewLetter > 99 ? html += "<a href=\"http://i.autohome.com.cn/club/message/?pvareaid=101300\" target=\"_blank\"><span class=\"cn\">99+条新私信</span><span class=\"ck\">查看私信</span></a>" : html += "<a href=\"http://i.autohome.com.cn/club/message/?pvareaid=101300\" target=\"_blank\"><span class=\"cn\">" + data.NewLetter + "条新私信</span><span class=\"ck\">查看私信</span></a>") : temp += "<a href=\"http://i.autohome.com.cn/club/message/?pvareaid=101609\" target=\"_blank\">查看私信</a>"; data.NewNotice > 0 ? (data.NewNotice > 99 ? html += "<a href=\"http://i.autohome.com.cn/club/notice/?pvareaid=101301\" target=\"_blank\"><span class=\"cn\">99+条新通知</span><span class=\"ck\">查看通知</span></a>" : html += "<a href=\"http://i.autohome.com.cn/club/notice/?pvareaid=101301\" target=\"_blank\"><span class=\"cn\">" + data.NewNotice + "条新通知</span><span class=\"ck\">查看通知</span></a>") : temp += "<a href=\"http://i.autohome.com.cn/club/notice/?pvareaid=101610\" target=\"_blank\">查看通知</a>"; data.NewFollowers > 0 ? (data.NewFollowers > 99 ? html += "<a href=\"http://i.autohome.com.cn/club/follower/?pvareaid=101297\" target=\"_blank\"><span class=\"cn\">99+个新粉丝</span><span class=\"ck\">查看粉丝</span></a>" : html += "<a href=\"http://i.autohome.com.cn/club/follower/?pvareaid=101297\" target=\"_blank\"><span class=\"cn\">" + data.NewFollowers + "个新粉丝</span><span class=\"ck\">查看粉丝</span></a>") : temp += "<a href=\"http://i.autohome.com.cn/club/follower/?pvareaid=101611\" target=\"_blank\">查看粉丝</a>"; if (data.order != null) { data.order > 0 ? (data.order > 99 ? html += "<a href=\"http://i.autohome.com.cn/club/orderlist/?pvareaid=101548\" target=\"_blank\"><span class=\"cn\">99+条新订单</span><span class=\"ck\">查看订单</span></a>" : html += "<a href=\"http://i.autohome.com.cn/orderlist/?pvareaid=101548\" target=\"_blank\"><span class=\"cn\">" + data.order + "条新订单</span><span class=\"ck\">查看订单</span></a>") : temp += "<a href=\"http://i.autohome.com.cn/orderlist/?pvareaid=101612\" target=\"_blank\">查看订单</a>" } else { temp += "<a href=\"http://i.autohome.com.cn/orderlist/?pvareaid=101612\" target=\"_blank\">查看订单</a>" } var a = ""; if (html.length > 0 && temp.length > 0) { a = html + "<div class=\"linedc\"></div>" + temp } else if (temp.length == 0) { a = html } else if (html.length == 0) { a = temp } auto("dataInfo").html(a); var count = data.NewLetter + data.NewReply + data.NewComment + data.NewNotice + data.NewFollowers + data.commentreply + (data.order == null ? 0 : data.order); if (count > 0) { if (count > 99) { auto("InfoId").css("info"); document.getElementById("InfoId").innerHTML = "99+"; auto("InfoId").show() } else { auto("InfoId").css("info"); auto("InfoId").html(count); auto("InfoId").show() } } else { auto("InfoId").hide() } }; function addFavorite(url, title) { var ua = navigator.userAgent.toLowerCase(); if (ua.indexOf("msie 8") > -1) { try { external.AddToFavoritesBar(url, title) } catch (e) { alert("您的浏览器不支持此功能，请使用快捷键 Ctrl+D 手动加入收藏夹") } } else { try { window.external.AddFavorite(url, title) } catch (e) { try { window.sidebar.addPanel(title, url, "") } catch (e) { alert("您的浏览器不支持此功能，请使用快捷键 Ctrl+D 手动加入收藏夹") } } } }; var clearIntervar = null; function openFun() { if (AutohomeUserInfo.isLogIn) { AutohomeUserInfo.init(); clearIntervar = setInterval("AutohomeUserInfo.getHomeList()", 15000) } }; function closeFun() { if (AutohomeUserInfo.isLogIn) { window.clearInterval(clearIntervar) } };
+
+        </script><script type="text/javascript">
+      (function (win) { var doc = win.document, navSelect = byClass('moreli_title', null, 'div'), nodeCache = [], len = navSelect.length, i = len - 1; function byClass(name, content, tag) { var arr = [], nodes = (content || doc).getElementsByTagName((tag || '*')), len = nodes.length, pattern = new RegExp("(\\s|^)" + name + "($|\\s)"), i = 0; for (; i < len; i++) pattern.test(nodes[i].className) && arr.push(nodes[i]); return arr }; function addEvent(elem, type, fn) { elem.addEventListener ? elem.addEventListener(type, fn, false) : elem.attachEvent('on' + type, fn) }; function hasClass(elem, name) { var className = ' ' + name + ' '; if ((' ' + elem.className + ' ').replace(/[\n\t]/g, ' ').indexOf(className) > -1) return true; return false }; function addClass(elem, name) { !hasClass(elem, name) && (elem.className += (elem.className ? ' ' : '') + name) }; function removeClass(elem, name) { hasClass(elem, name) && (elem.className = elem.className.replace(name, '')) }; function getSelect(elem) { var o = null, n = elem.nextSibling; while (n) { if (n.nodeType === 1 && n.className && n.className.indexOf('topchadiv') != -1) { o = n; break } n = n.nextSibling }; return o }; for (; i > -1; i--) { (function (i) { addEvent(navSelect[i], 'mouseover', function () { navSelect[i].timer && clearTimeout(navSelect[i].timer); var s; if (nodeCache[i]) { s = nodeCache[i] } else { s = nodeCache[i] = getSelect(navSelect[i]); if (s) { addEvent(s, 'mouseover', function () { navSelect[i].timer && clearTimeout(navSelect[i].timer) }); addEvent(s, 'mouseout', function () { navSelect[i].timer = setTimeout(function () { s && (s.style.display = 'none', removeClass(navSelect[i], 'moreli_active')) }, 50) }) } } if (s) { s.style.display = 'block'; addClass(navSelect[i], 'moreli_active') } }); addEvent(navSelect[i], 'mouseout', function () { var s; if (nodeCache[i]) s = nodeCache[i]; else s = nodeCache[i] = getSelect(navSelect[i]); navSelect[i].timer = setTimeout(function () { s && (s.style.display = 'none', removeClass(navSelect[i], 'moreli_active')) }, 50) }) })(i) } })(window);
+  </script>
+
+        <!--头部区域开始-->
+        <div class="ss-header" >
+	<div class="ss-logo"><a title="到汽车之家搜索首页" href="/"><img alt="到汽车之家搜索首页" src="images/logo_ss_130402.png" /></a></div>
+    <div class="ss-con">
+    	<ul class="ss-nav" id="pindao">
+            
+    <li><a href='zonghe?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&entry=42&error=0'>综合</a></li><li><a href='luntan?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&entry=44&error=0'>论坛</a></li>        <li class="cur"><span>文章</span></li><li><a href='shipin?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&entry=45&error=0'>视频</a></li><li><a href='hangqing?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&entry=46&error=0'>行情</a></li><li class='zhidao'><a href='zhidao?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&entry=90&error=0'>知道</a><sup class='new'>new</sup></li>
+
+        </ul>
+        <div class="ss-box">
+            <form method="get" action="?" target="_self" accept-charset="gb2312" onsubmit="document.charset='gb2312'" id="souform">
+            <div id="soudiv" class="searchbar">
+                <input type="text" class="txt-search"  name="q" id="q" autocomplete="off" value="奥迪R8 上市" onkeypress="" />
+                <input type="hidden" id="pvareaid" name="pvareaid" autocomplete="off" value="100834" />
+                <input type="hidden" id="entry" name="entry" autocomplete="off" value="43" />
+                <input type="hidden" id="searchtypecontent" name="searchtypecontent" autocomplete="off" value="content" />
+                <input type="hidden" id="sort" name="sort" autocomplete="off" value="Relevance" />    
+                                <input type="hidden" id="pkw"  name="pq" value="奥迪R8 上市">
+                <input type="hidden" id="ptime" name="pt" value="635627135281412345">
+            </div>
+                <a href="###" data="pageareaid:1" class="btn-search">搜 索</a>
+            <!--联想词-->
+            <div class="search-pop" style="display: none;" id="autocomplateTip">
+            </div>
+            <!--end联想词-->
+            </form>
+        </div>
+    </div>
+            
+</div> 
+<!--头部区域end-->
+        <!--内容区域开始-->
+<div class="ss-content" id="content">
+	<!--左侧开始-->
+	<div class="left-guide" id="main_left">
+        
+        <ul class="guide-ul">
+                    <li class="cur"><span>文章全文</span></li>
+<li><a href='wenzhang?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&pvareaid=&searchtypeContent=title&entry=43&error=0'>文章标题</a></li>
+        </ul>
+
+        
+        <ul class="guide-ul">
+                    <li class="cur"><span>最相关</span></li>
+<li><a href='wenzhang?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=New&pvareaid=&searchtypeContent=content&entry=43&error=0'>最新发布</a></li><li><a href='wenzhang?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Reply&pvareaid=&searchtypeContent=content&entry=43&error=0'>最多评论</a></li>
+
+        </ul>
+
+        
+        
+<ul class="guide-ul last-ul">
+             <li><a href="wenzhang?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&amp;class=0&amp;sort=Relevance&amp;pvareaid=&amp;searchtypeContent=content&amp;entry=43&amp;error=0">全部分类 </a></li>
+        <li class="cur"><span>新闻中心</span></li>
+             <li><a href="wenzhang?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&amp;class=3&amp;sort=Relevance&amp;pvareaid=&amp;searchtypeContent=content&amp;entry=43&amp;error=0">试驾评测 </a></li>
+             <li><a href="wenzhang?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&amp;class=107&amp;sort=Relevance&amp;pvareaid=&amp;searchtypeContent=content&amp;entry=43&amp;error=0">改装/赛事 </a></li>
+</ul>
+
+
+        
+    </div>
+    <!--左侧end-->
+    <!--右侧end-->
+    <div class="right-con">
+        <!--中间结果开始-->
+        <div class="result">
+            
+            
+            
+
+            
+            
+
+
+
+
+
+<div class="result-list">
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/201310/643319.html" target="_blank" data="sequence:1">售182.3-252.3万 <em>奥迪</em>新款<em>R8</em>正式<em>上市</em></a></dt>
+        <dd>10月24日，<em>奥迪</em>旗下超级跑车<em>R8</em>正式<em>上市</em>并公布售价，此次<em>上市</em>的新款<em>R8</em>共有四款车型，售价区间为182.3-252.3万。详细车型价格见下表。新款<em>奥迪</em><em>R8</em>指导售价车型售价（万元）<em>R8</em> V8 C...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(241)</span><span class="artpad">发表于：2013-10-24</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/201310/634699.html" target="_blank" data="sequence:2">更换新变速箱 <em>奥迪</em>新款<em>R8</em> 10月24日<em>上市</em></a></dt>
+        <dd>日前，我们从官方获悉，<em>奥迪</em>新款<em>R8</em>将于10月24日正式<em>上市</em>。预计此次将<em>上市</em>的车型将有<em>R8</em> Coupe以及Spyder两种车型。点击这里查看更多新款<em>R8</em>到店实拍图 <em>奥迪</em>新款<em>R8</em> Coupe在今年上海...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(0)</span><span class="artpad">发表于：2013-10-11</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/201107/214891.html" target="_blank" data="sequence:3">售价249.8万元 <em>奥迪</em>V10 <em>R8</em> Spyder<em>上市</em></a></dt>
+        <dd>万起售 <em>奥迪</em><em>R8</em> V10国内正式<em>上市</em> http://www.autohome.com.cn/news/201006/123089.html 售178.5万元 <em>奥迪</em>超级跑车<em>R8</em>中国<em>上市</em> http://www.autohome.com.cn/news/200801/32555.html</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(177)</span><span class="artpad">发表于：2011-07-04</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/201103/181068.html" target="_blank" data="sequence:4">限量333辆 <em>奥迪</em>顶级超跑<em>R8</em> GT即将<em>上市</em></a></dt>
+        <dd>在去年的巴黎车展上<em>奥迪</em>向人们展示了<em>R8</em> GT，近日，国外媒体报道这款目前<em>R8</em>的顶级车型即将<em>上市</em>。 <em>R8</em> GT的重量比普通版<em>R8</em>减轻了约100kg的重量。为了减轻重量，<em>奥迪</em>为<em>R8</em>更换了更薄...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(289)</span><span class="artpad">发表于：2011-03-17</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/201009/140152.html" target="_blank" data="sequence:5">9.5万英镑起 <em>奥迪</em>4.2 <em>R8</em> Spyder将<em>上市</em></a></dt>
+        <dd>发动机采用中置，<em>R8</em> Spyder的Quattro四驱系统采用偏重后驱的特别设计。 相关文章： 再推新车型 <em>奥迪</em><em>R8</em> 4.2四驱敞篷版亮相 http://www.autohome.com.cn/news/201007/124641.html</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(127)</span><span class="artpad">发表于：2010-09-12</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/200801/32555.html" target="_blank" data="sequence:6">售178.5万元 <em>奥迪</em>超级跑车<em>R8</em>中国<em>上市</em></a></dt>
+        <dd>2008年1月17日，<em>奥迪</em>中国宣布<em>奥迪</em>首款超级跑车<em>R8</em>正式在国内<em>上市</em>，此次<em>上市</em><em>奥迪</em><em>R8</em>只有V8 4.2L基本款。基本款售价：178.5万元 （共八种颜色，还有碳纤维空力套件可供选择) 下图为...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(357)</span><span class="artpad">发表于：2008-01-17</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/201310/643282.html" target="_blank" data="sequence:7">共3款车型 <em>奥迪</em>RS 5敞篷/新款<em>R8</em>将<em>上市</em></a></dt>
+        <dd><em>奥迪</em>新款<em>R8</em><em>奥迪</em>新款<em>R8</em> Coupe车型曾在今年上海车展亮相，而此次<em>上市</em>的<em>R8</em>车型还包含一款<em>R8</em> Spyder车型。外观方面，新款<em>R8</em>配备了全新造型的LED日间行车灯，新车前进气格栅等部分也...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(0)</span><span class="artpad">发表于：2013-10-24</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/201111/266691.html" target="_blank" data="sequence:8">售262.8万 <em>奥迪</em><em>R8</em>碳纤维中国限量版<em>上市</em></a></dt>
+        <dd>2011年11月21日，广州车展开幕，<em>奥迪</em><em>R8</em>限量版在车展上正式亮相并且发布售价，价格为262.8万。<em>奥迪</em><em>R8</em>限量版指导售价车型售价（万元）<em>奥迪</em><em>R8</em>限量版262.8 <em>奥迪</em><em>R8</em>限量版在<em>奥迪</em><em>R8</em>家族...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(94)</span><span class="artpad">发表于：2011-11-21</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/200902/54129.html" target="_blank" data="sequence:9">125.58万元 <em>奥迪</em><em>R8</em> V10二季度欧洲<em>上市</em></a></dt>
+        <dd><em>奥迪</em>于去年推出了一款全新跑车：<em>R8</em> V10，近日我们收到消息：这款新车即将在今年的第二季度<em>上市</em>，最先<em>上市</em>的地区仍然为欧洲地区，该车预计起售价为：14.24万欧元；约合124.58万人...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(21)</span><span class="artpad">发表于：2009-02-02</span></dd>
+    </dl>
+     <dl class="list-dl">
+        <dt><a href="http://www.autohome.com.cn/news/200812/51250.html" target="_blank" data="sequence:10">约合126.72万 <em>奥迪</em><em>R8</em> V10预计明年<em>上市</em></a></dt>
+        <dd>今日我们收到消息：<em>奥迪</em><em>R8</em> V10正式发布，这款新车在去年就受到自燃的困扰而迟迟无法与消费者见面，这次V10版本的发布证明了<em>奥迪</em>已经攻克了这道难关。 外型方面<em>R8</em>的V10版本和V8版...</dd>
+        <dd class="infodd"><span class="artpad">类型：新闻中心</span><span class="artpad">评论(32)</span><span class="artpad">发表于：2008-12-09</span></dd>
+    </dl>
+
+</div>
+
+        </div>
+        <!--中间结果end-->
+        
+        <!--右侧模块开始-->
+        
+<!--右侧模块开始-->
+<div class="rside">
+        <!---米其林--->
+    <div class="advbox"></div>
+     
+    <!---用户--->
+    <!---品牌--->
+        <!---厂商--->
+    <!---车系--->
+    <!---广告---->
+    <!---广告结束--->
+</div>
+<!--右侧模块end-->
+
+        <!--右侧模块end-->
+        <div class="clear"></div>
+        <!--分页开始-->
+         
+<div class="page">
+<a href="javascript:void(0);" class="current">1</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=2&pvareaid=&searchtypeContent=content&entry=43&error=0'>2</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=3&pvareaid=&searchtypeContent=content&entry=43&error=0'>3</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=4&pvareaid=&searchtypeContent=content&entry=43&error=0'>4</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=5&pvareaid=&searchtypeContent=content&entry=43&error=0'>5</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=6&pvareaid=&searchtypeContent=content&entry=43&error=0'>6</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=7&pvareaid=&searchtypeContent=content&entry=43&error=0'>7</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=8&pvareaid=&searchtypeContent=content&entry=43&error=0'>8</a><a href='?q=%b0%c2%b5%cfR8+%c9%cf%ca%d0&class=1&sort=Relevance&page=2&pvareaid=&searchtypeContent=content&entry=43&error=0' class="page-item-next">下一页</a>
+</div>
+
+        <!--分页end-->
+    </div>
+    <!--右侧end-->
+    <div class="clear"></div>
+</div>
+<!--内容区域end-->
+<!--相关搜索开始-->
+        
+<div class="about-search" id="relateSearch">
+    <table cellpadding="0">
+        <tbody>
+<tr><th class='tt' rowspan='2'>相关搜索：</th><th><a href='wenzhang?q=%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='上市'>上市</a></th><td></td><th><a href='wenzhang?q=%b0%c2%b5%cfR8&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='奥迪R8'>奥迪R8</a></th><td></td><th><a href='wenzhang?q=%d0%c2%b3%b5%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='新车上市'>新车上市</a></th><td></td><th><a href='wenzhang?q=%c9%cf%ca%d0%d0%c2%b3%b5&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='上市新车'>上市新车</a></th><td></td><th><a href='wenzhang?q=%bd%ab%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='将上市'>将上市</a></th></tr><tr><th><a href='wenzhang?q=%bc%b4%bd%ab%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='即将上市'>即将上市</a></th><td></td><th><a href='wenzhang?q=%c3%f7%c4%ea%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='明年上市'>明年上市</a></th><td></td><th><a href='wenzhang?q=%bd%fc%c6%da%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='近期上市'>近期上市</a></th><td></td><th><a href='wenzhang?q=11%d4%c2%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='11月上市'>11月上市</a></th><td></td><th><a href='wenzhang?q=%ba%a3%cd%e2%c9%cf%ca%d0&pvareaid=&searchtypeContent=content&sort=Relevance&entry=43' title='海外上市'>海外上市</a></th></tr>        </tbody>
+    </table>
+</div>
+
+<!--相关搜索end-->
+<!--底部搜索框开始-->
+<div class="ss-box ss-box-bottom">
+     <form method="get" action="?" target="_self" accept-charset="gb2312" onsubmit="document.charset='gb2312'" id="souform1" >
+         <div class="searchbar">
+             <input  name="q" class="txt-search" type="text" autocomplete="off" value="奥迪R8 上市" />
+             <input type="hidden" id="entry1" name="entry" autocomplete="off" value="43" />
+                <input type="hidden" id="searchtypecontent1" name="searchtypecontent" autocomplete="off" value="content" />
+                <input type="hidden" id="sort1" name="sort" autocomplete="off" value="Relevance" />    
+                           <input type="hidden" id="pkw"  name="pq" value="奥迪R8 上市">
+             <input type="hidden" id="ptime" name="pt" value="635627135281568356">
+         </div>
+         <a href="###" data="pageareaid:5"  class="btn-search">搜 索</a>
+    </form>
+</div>
+<!--底部搜索框end-->
+<!--滚动按钮开始-->
+<div class="scrollbtn" id="scrollbtn"><a href="http://www.autohome.com.cn/bug/default.aspx" class="feedback" target="_blank" title="反馈建议"><i class="ic_feedback"></i><span>意见反馈</span></a><a id="turntop" href="javascript:void(0)" onclick="window.scrollTo(0, 0);" class="turntop" title="返回顶部"><i class="ic_turntop"></i><span>返回顶部</span></a></div>
+<!--滚动按钮end-->
+<div class="ss-footer"><p><span class="fontarial">&copy; 2004-2015 www.autohome.com.cn All Rights Reserved.</span> 汽车之家 版权所有</p></div>
+         
+<script type="text/javascript">
+    function XY(e) {
+        e = e || window.event;
+        //Mozilla  
+        if (e.pageX || e.pageY) {
+            return { x: e.pageX, y: e.pageY }
+        }
+        //IE  
+        return {
+            x: e.clientX + document.body.scrollLeft - document.body.clientLeft,
+            y: e.clientY + document.body.scrollTop - document.body.clientTop
+        }
+    }
+
+    function GetValue(parm) {
+        var reg = new RegExp("(^|&)" + parm + "=([^&]*)(&|$)");
+        var r = location.href.substr(location.href.indexOf("\?") + 1).match(reg);
+        //   if (r!=null) return unescape(r[2]); return null;  
+        if (r != null) return r[2]; return null;
+    }
+
+    var showType ='';
+    var manualUris = "";
+
+    function getContentLink() {
+        var mleft = document.getElementById("cresult");
+        if (mleft != null) {
+            var links = mleft.getElementsByTagName('a'),
+            len = links.length, i = 0;
+            for (; i < len; i++) {
+                links[i].setAttribute("data", "pageareaid:6");
+            }
+        }
+    }
+
+    (function(){
+        if (document.images) {
+            pinDaoData();
+            leftData();
+            relateSearchData();
+            errorCorrectionsData();
+           
+            var uid=getCookie('sessionid');
+            var uniqueuserId=getCookie('UniqueUserId');
+            if(uid==null)
+            {
+                uid='';
+            }
+            if(uniqueuserId==null)
+            {
+                var cookieguid=newGuid();
+                SetCookie('UniqueUserId',cookieguid,315360000 ,null,'sou.autohome.com.cn');
+                uniqueuserId=cookieguid;
+            }
+            var sessionip=getCookie('sessionip');
+            var sid=newGuid();
+            var muricodes ='';
+            var uricodes ='1670110017409423793,3717199934090734599,7603416246809352744,4349875083610882044,1606901548695264692,-2213783203456227931,-5965256075811757317,-525209599212262852,-2103701323520864157,-4472846574435718180'; 
+            var cost ='52';
+            
+            var context ='{}';
+
+            var prequery =GetValue('pq'); 
+            var pretime =GetValue('pt');
+
+            var code =''; 
+
+             var en='43';
+            var inputkey='奥迪R8 上市';
+            var mword='';
+            var qPage ='1'; 
+            
+            var posten='';
+            if(posten!=''&&posten!=null)
+            {
+                en=posten;
+            }
+            var ps='10';
+             var is='1';
+            var mid='0';
+            var sort='Relevance';
+            var scid='2';
+            var msid='0';
+            var ev='0';
+            var area = getCookie('area');
+            var ab_ver="0";
+            var bc = Math.floor(area / 100);
+            var cd = bc * 100;
+            
+            var sword=new Image();
+             
+            sword.src = "/stats/SearchWord.ashx?word=" + document.getElementById("q").value + "&cur=" + encodeURIComponent(document.URL) + "&ref=" + encodeURIComponent(document.referrer) + "&swordentry="+en+"&uid="+uid+"&unId="+uniqueuserId+"&sip="+sessionip+"&scid="+scid+"&area="+cd+"&matchword="+mword+"&mwcsid="+msid+"&mwcid="+mid+"&offset="+qPage+"&Size="+ps+"&result="+is+"&Sort="+sort+"&ab_utmx="+ab_ver+""
+                       +"&prequery="+prequery+ "&muricodes="+muricodes + "&uricodes="+uricodes + "&pretime="+pretime+"&cost="+cost+"&context="+context+"&sid=" + sid + "&ev=" + ev;
+            var alikes = document.getElementsByTagName("a"),
+           lena = alikes.length,ia = 0;
+            for(;ia<lena;ia++){
+                if(alikes[ia].id!="turntop" && alikes[ia].id!="indagatea" && alikes[ia].id!="clubIsSaveSelect" && alikes[ia].id!="btnSpecMore" && alikes[ia].id!="btnCloseSpecMore" && alikes[ia].id!="btncontrast"){
+                    alikes[ia].onclick = function(e){
+                        if(document.images){
+                            var data=this.getAttribute('data');
+                            if(data == null)
+                                data="";
+                            var u = this.href;
+                            var pos = u.indexOf("#",0);
+                            if(pos != -1)
+                                u =u.substring(0,pos); 
+                            u = encodeURIComponent(u);
+                            (new Image()).src = "/stats/SearchClick.ashx?word="+encodeURIComponent(inputkey)+"&matchword="+encodeURIComponent(mword)+"&mwcid="+msid+"&uid="+uid+"&unId="+uniqueuserId+"&ab_utmx="+ab_ver+"&scid="+scid+"&data="+data+"&sip="+sessionip+
+                                    "&url=" + u + "&anchor=" + encodeURIComponent(this.innerHTML)+
+                                     //"&cookie=" + document.cookie + 
+                                     "&height=" + window.screen.height + "&width=" + window.screen.width+
+                                     "&x=" + XY(e).x + "&y=" + XY(e).y+
+                                     "&page="+qPage+"&area=" + area+
+                                    "&prequery="+encodeURIComponent(prequery)+"&pretime="+pretime+"&code="+code+"&cost="+cost+"&context="+context+"&sid=" + sid+"&Size="+ps+ "&ev=" + ev + 
+                                     "&sort="+sort+"&sx="+document.body.scrollWidth+"&sy="+document.body.scrollHeight+"&sc="+screen.colorDepth+"&fv="+"&lan=&encoding=utf-8";
+                            if(data=="pageareaid:1")
+                            {
+                                document.getElementById('souform').submit();
+                            }
+                            if(data=="pageareaid:5")
+                            {
+                                document.getElementById('souform1').submit();
+                            }
+                             
+                        }
+                    }
+                }
+            }
+            
+            
+        }})();  
+</script>
+<script type="text/javascript">
+
+    ; (function () {
+
+        function getCoords(elem) {
+            var box = elem.getBoundingClientRect(),
+            doc = elem.ownerDocument,
+            body = doc.body,
+            html = doc.documentElement,
+            clientTop = html.clientTop || body.clientTop || 0,
+            clientLeft = html.clientLeft || body.clientLeft || 0,
+            top = box.top + (self.pageYOffset || html.scrollTop || body.scrollTop) - clientTop,
+            left = box.left + (self.pageXOffset || html.scrollLeft || body.scrollLeft) - clientLeft
+            return { 'top': top, 'left': left };
+        };
+
+        function addEvent(elem, type, fn) {
+            elem.addEventListener ? elem.addEventListener(type, fn, false) : elem.attachEvent('on' + type, fn);
+        };
+
+        function scrollBtn(rid, sid, tid) {
+            var r_obj = document.getElementById(rid),
+                s_obj = document.getElementById(sid),
+                t_obj = document.getElementById(tid),
+                sCss = s_obj.style, tCss = t_obj.style;
+
+            var isFixed = (function () {
+
+                var outer = document.createElement('div'),
+                    inner = document.createElement('div'),
+                    result = true;
+
+                outer.style.cssText = 'position:absolute;top:200px;';
+                inner.style.cssText = 'position:fixed;top:100px;';
+
+                outer.appendChild(inner);
+                document.body.appendChild(outer);
+
+                if (inner.getBoundingClientRect &&
+                    inner.getBoundingClientRect().top == outer.getBoundingClientRect().top) result = false;
+
+                document.body.removeChild(outer);
+
+                outer = inner = null;
+
+                return result;
+
+            })();
+
+            var set = function () {
+                var st = document.documentElement.scrollTop + document.body.scrollTop,
+                    wH = document.documentElement.clientHeight,
+                    rPos = getCoords(r_obj);
+
+                if (st + wH - 48 > rPos.top + r_obj.offsetHeight) {
+                    sCss.position = 'absolute';
+                    sCss.bottom = '';
+                    sCss.top = rPos.top + r_obj.offsetHeight - 94 + 'px';
+                    if(st == 0) sCss.height = '39px';
+                    else sCss.height = '80px';
+                }
+                else {
+                    sCss.position = isFixed ? 'fixed' : 'absolute';
+                    if (st > 0) {
+                        sCss.bottom = '';
+                        sCss.top = (isFixed ? 0 : st) + wH - 150 + 'px';
+                        tCss.display = '';
+                        sCss.height = '80px';
+                    }
+                    else {
+                        sCss.height = '39px';
+                        sCss.top = '';
+                        sCss.bottom = '70px';
+                    }
+                }
+            };
+
+            setInterval(function () {
+                set();
+            }, 50);
+        };
+
+        scrollBtn('content', 'scrollbtn', 'turntop');
+    })();
+
+</script>
+
+
+<script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F531e1bdb569e3bc1bb90698b3cb7d37a' type='text/javascript'%3E%3C/script%3E"));
+    
+</script>
+<script type="text/javascript">
+    var pvTrack = function () { };
+    pvTrack.site = 9;
+    pvTrack.category =60;
+</script>
+
+<script type="text/javascript">
+    //version 4.0
+    var url_stats="http://stats.autohome.com.cn/pv_count.php?SiteId=";
+    (function (){
+        if (typeof(pvTrack)!="undefined"){				
+            setTimeout("func_stats()",3000);		
+            var doc = document,t=pvTrack;
+            var pv_site,pv_category ,pv_subcategory,pv_object,pv_series,pv_type,pv_typeid,pv_spec,pv_level,pv_dealer,pv_ref,pv_cur;
+            pv_ref=escape(doc.referrer);pv_cur=escape(doc.URL);
+            pv_site=t.site;pv_category=t.category ;pv_subcategory= t.subcategory;pv_object=t.object;pv_series=t.series;pv_type=t.type;pv_typeid=t.typeid;pv_spec=t.spec;pv_level=t.level;pv_dealer=t.dealer;
+            url_stats+= pv_site+(pv_category != null ? "&CategoryId=" + pv_category : "")+ (pv_subcategory != null ? "&SubCategoryId=" + pv_subcategory : "")+ (pv_object != null ? "&objectid=" + pv_object : "")+ (pv_series != null ? "&seriesid=" + pv_series : "")+ (pv_type != null ? "&type=" + pv_type : "")+ (pv_typeid != null ? "&typeid=" + pv_typeid : "")+ (pv_spec != null ? "&specid=" + pv_spec : "")+ (pv_level != null ? "&jbid=" + pv_level : "")+ (pv_dealer != null ? "&dealerid=" + pv_dealer : "")+ "&ref=" + pv_ref + "&cur=" + pv_cur+"&rnd="+Math.random();
+            var len_url_stats =url_stats.length;
+        }
+    })();
+    document.write('<iframe id="PageView_stats" src="" style="display:none;"></iframe>');
+    function func_stats(){document.getElementById('PageView_stats').src =url_stats;}
+
+</script>
+<script type="text/javascript" src="http://x.autoimg.cn/pv/js/ga-count.js"></script>
+<script type="text/javascript">
+    BeginLoadAdvertise();
+</script>
+<script type="text/javascript">
+    var swfobject=function(){var aq="undefined",aD="object",ab="Shockwave Flash",X="ShockwaveFlash.ShockwaveFlash",aE="application/x-shockwave-flash",ac="SWFObjectExprInst",ax="onreadystatechange",af=window,aL=document,aB=navigator,aa=false,Z=[aN],aG=[],ag=[],al=[],aJ,ad,ap,at,ak=false,aU=false,aH,an,aI=true,ah=function(){var a=typeof aL.getElementById!=aq&&typeof aL.getElementsByTagName!=aq&&typeof aL.createElement!=aq,e=aB.userAgent.toLowerCase(),c=aB.platform.toLowerCase(),h=c?/win/.test(c):/win/.test(e),j=c?/mac/.test(c):/mac/.test(e),g=/webkit/.test(e)?parseFloat(e.replace(/^.*webkit\/(\d+(\.\d+)?).*$/,"$1")):false,d=!+"\v1",f=[0,0,0],k=null;if(typeof aB.plugins!=aq&&typeof aB.plugins[ab]==aD){k=aB.plugins[ab].description;if(k&&!(typeof aB.mimeTypes!=aq&&aB.mimeTypes[aE]&&!aB.mimeTypes[aE].enabledPlugin)){aa=true;d=false;k=k.replace(/^.*\s+(\S+\s+\S+$)/,"$1");f[0]=parseInt(k.replace(/^(.*)\..*$/,"$1"),10);f[1]=parseInt(k.replace(/^.*\.(.*)\s.*$/,"$1"),10);f[2]=/[a-zA-Z]/.test(k)?parseInt(k.replace(/^.*[a-zA-Z]+(.*)$/,"$1"),10):0}}else{if(typeof af.ActiveXObject!=aq){try{var i=new ActiveXObject(X);if(i){k=i.GetVariable("$version");if(k){d=true;k=k.split(" ")[1].split(",");f=[parseInt(k[0],10),parseInt(k[1],10),parseInt(k[2],10)]}}}catch(b){}}}return{w3:a,pv:f,wk:g,ie:d,win:h,mac:j}}(),aK=function(){if(!ah.w3){return}if((typeof aL.readyState!=aq&&aL.readyState=="complete")||(typeof aL.readyState==aq&&(aL.getElementsByTagName("body")[0]||aL.body))){aP()}if(!ak){if(typeof aL.addEventListener!=aq){aL.addEventListener("DOMContentLoaded",aP,false)}if(ah.ie&&ah.win){aL.attachEvent(ax,function(){if(aL.readyState=="complete"){aL.detachEvent(ax,arguments.callee);aP()}});if(af==top){(function(){if(ak){return}try{aL.documentElement.doScroll("left")}catch(a){setTimeout(arguments.callee,0);return}aP()})()}}if(ah.wk){(function(){if(ak){return}if(!/loaded|complete/.test(aL.readyState)){setTimeout(arguments.callee,0);return}aP()})()}aC(aP)}}();function aP(){if(ak){return}try{var b=aL.getElementsByTagName("body")[0].appendChild(ar("span"));b.parentNode.removeChild(b)}catch(a){return}ak=true;var d=Z.length;for(var c=0;c<d;c++){Z[c]()}}function aj(a){if(ak){a()}else{Z[Z.length]=a}}function aC(a){if(typeof af.addEventListener!=aq){af.addEventListener("load",a,false)}else{if(typeof aL.addEventListener!=aq){aL.addEventListener("load",a,false)}else{if(typeof af.attachEvent!=aq){aM(af,"onload",a)}else{if(typeof af.onload=="function"){var b=af.onload;af.onload=function(){b();a()}}else{af.onload=a}}}}}function aN(){if(aa){Y()}else{am()}}function Y(){var d=aL.getElementsByTagName("body")[0];var b=ar(aD);b.setAttribute("type",aE);var a=d.appendChild(b);if(a){var c=0;(function(){if(typeof a.GetVariable!=aq){var e=a.GetVariable("$version");if(e){e=e.split(" ")[1].split(",");ah.pv=[parseInt(e[0],10),parseInt(e[1],10),parseInt(e[2],10)]}}else{if(c<10){c++;setTimeout(arguments.callee,10);return}}d.removeChild(b);a=null;am()})()}else{am()}}function am(){var g=aG.length;if(g>0){for(var h=0;h<g;h++){var c=aG[h].id;var l=aG[h].callbackFn;var a={success:false,id:c};if(ah.pv[0]>0){var i=aS(c);if(i){if(ao(aG[h].swfVersion)&&!(ah.wk&&ah.wk<312)){ay(c,true);if(l){a.success=true;a.ref=av(c);l(a)}}else{if(aG[h].expressInstall&&au()){var e={};e.data=aG[h].expressInstall;e.width=i.getAttribute("width")||"0";e.height=i.getAttribute("height")||"0";if(i.getAttribute("class")){e.styleclass=i.getAttribute("class")}if(i.getAttribute("align")){e.align=i.getAttribute("align")}var f={};var d=i.getElementsByTagName("param");var k=d.length;for(var j=0;j<k;j++){if(d[j].getAttribute("name").toLowerCase()!="movie"){f[d[j].getAttribute("name")]=d[j].getAttribute("value")}}ae(e,f,c,l)}else{aF(i);if(l){l(a)}}}}}else{ay(c,true);if(l){var b=av(c);if(b&&typeof b.SetVariable!=aq){a.success=true;a.ref=b}l(a)}}}}}function av(b){var d=null;var c=aS(b);if(c&&c.nodeName=="OBJECT"){if(typeof c.SetVariable!=aq){d=c}else{var a=c.getElementsByTagName(aD)[0];if(a){d=a}}}return d}function au(){return !aU&&ao("6.0.65")&&(ah.win||ah.mac)&&!(ah.wk&&ah.wk<312)}function ae(f,d,h,e){aU=true;ap=e||null;at={success:false,id:h};var a=aS(h);if(a){if(a.nodeName=="OBJECT"){aJ=aO(a);ad=null}else{aJ=a;ad=h}f.id=ac;if(typeof f.width==aq||(!/%$/.test(f.width)&&parseInt(f.width,10)<310)){f.width="310"}if(typeof f.height==aq||(!/%$/.test(f.height)&&parseInt(f.height,10)<137)){f.height="137"}aL.title=aL.title.slice(0,47)+" - Flash Player Installation";var b=ah.ie&&ah.win?"ActiveX":"PlugIn",c="MMredirectURL="+af.location.toString().replace(/&/g,"%26")+"&MMplayerType="+b+"&MMdoctitle="+aL.title;if(typeof d.flashvars!=aq){d.flashvars+="&"+c}else{d.flashvars=c}if(ah.ie&&ah.win&&a.readyState!=4){var g=ar("div");h+="SWFObjectNew";g.setAttribute("id",h);a.parentNode.insertBefore(g,a);a.style.display="none";(function(){if(a.readyState==4){a.parentNode.removeChild(a)}else{setTimeout(arguments.callee,10)}})()}aA(f,d,h)}}function aF(a){if(ah.ie&&ah.win&&a.readyState!=4){var b=ar("div");a.parentNode.insertBefore(b,a);b.parentNode.replaceChild(aO(a),b);a.style.display="none";(function(){if(a.readyState==4){a.parentNode.removeChild(a)}else{setTimeout(arguments.callee,10)}})()}else{a.parentNode.replaceChild(aO(a),a)}}function aO(b){var d=ar("div");if(ah.win&&ah.ie){d.innerHTML=b.innerHTML}else{var e=b.getElementsByTagName(aD)[0];if(e){var a=e.childNodes;if(a){var f=a.length;for(var c=0;c<f;c++){if(!(a[c].nodeType==1&&a[c].nodeName=="PARAM")&&!(a[c].nodeType==8)){d.appendChild(a[c].cloneNode(true))}}}}}return d}function aA(e,g,c){var d,a=aS(c);if(ah.wk&&ah.wk<312){return d}if(a){if(typeof e.id==aq){e.id=c}if(ah.ie&&ah.win){var f="";for(var i in e){if(e[i]!=Object.prototype[i]){if(i.toLowerCase()=="data"){g.movie=e[i]}else{if(i.toLowerCase()=="styleclass"){f+=' class="'+e[i]+'"'}else{if(i.toLowerCase()!="classid"){f+=" "+i+'="'+e[i]+'"'}}}}}var h="";for(var j in g){if(g[j]!=Object.prototype[j]){h+='<param name="'+j+'" value="'+g[j]+'" />'}}a.outerHTML='<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'+f+">"+h+"</object>";ag[ag.length]=e.id;d=aS(e.id)}else{var b=ar(aD);b.setAttribute("type",aE);for(var k in e){if(e[k]!=Object.prototype[k]){if(k.toLowerCase()=="styleclass"){b.setAttribute("class",e[k])}else{if(k.toLowerCase()!="classid"){b.setAttribute(k,e[k])}}}}for(var l in g){if(g[l]!=Object.prototype[l]&&l.toLowerCase()!="movie"){aQ(b,l,g[l])}}a.parentNode.replaceChild(b,a);d=b}}return d}function aQ(b,d,c){var a=ar("param");a.setAttribute("name",d);a.setAttribute("value",c);b.appendChild(a)}function aw(a){var b=aS(a);if(b&&b.nodeName=="OBJECT"){if(ah.ie&&ah.win){b.style.display="none";(function(){if(b.readyState==4){aT(a)}else{setTimeout(arguments.callee,10)}})()}else{b.parentNode.removeChild(b)}}}function aT(a){var b=aS(a);if(b){for(var c in b){if(typeof b[c]=="function"){b[c]=null}}b.parentNode.removeChild(b)}}function aS(a){var c=null;try{c=aL.getElementById(a)}catch(b){}return c}function ar(a){return aL.createElement(a)}function aM(a,c,b){a.attachEvent(c,b);al[al.length]=[a,c,b]}function ao(a){var b=ah.pv,c=a.split(".");c[0]=parseInt(c[0],10);c[1]=parseInt(c[1],10)||0;c[2]=parseInt(c[2],10)||0;return(b[0]>c[0]||(b[0]==c[0]&&b[1]>c[1])||(b[0]==c[0]&&b[1]==c[1]&&b[2]>=c[2]))?true:false}function az(b,f,a,c){if(ah.ie&&ah.mac){return}var e=aL.getElementsByTagName("head")[0];if(!e){return}var g=(a&&typeof a=="string")?a:"screen";if(c){aH=null;an=null}if(!aH||an!=g){var d=ar("style");d.setAttribute("type","text/css");d.setAttribute("media",g);aH=e.appendChild(d);if(ah.ie&&ah.win&&typeof aL.styleSheets!=aq&&aL.styleSheets.length>0){aH=aL.styleSheets[aL.styleSheets.length-1]}an=g}if(ah.ie&&ah.win){if(aH&&typeof aH.addRule==aD){aH.addRule(b,f)}}else{if(aH&&typeof aL.createTextNode!=aq){aH.appendChild(aL.createTextNode(b+" {"+f+"}"))}}}function ay(a,c){if(!aI){return}var b=c?"visible":"hidden";if(ak&&aS(a)){aS(a).style.visibility=b}else{az("#"+a,"visibility:"+b)}}function ai(b){var a=/[\\\"<>\.;]/;var c=a.exec(b)!=null;return c&&typeof encodeURIComponent!=aq?encodeURIComponent(b):b}var aR=function(){if(ah.ie&&ah.win){window.attachEvent("onunload",function(){var a=al.length;for(var b=0;b<a;b++){al[b][0].detachEvent(al[b][1],al[b][2])}var d=ag.length;for(var c=0;c<d;c++){aw(ag[c])}for(var e in ah){ah[e]=null}ah=null;for(var f in swfobject){swfobject[f]=null}swfobject=null})}}();return{registerObject:function(a,e,c,b){if(ah.w3&&a&&e){var d={};d.id=a;d.swfVersion=e;d.expressInstall=c;d.callbackFn=b;aG[aG.length]=d;ay(a,false)}else{if(b){b({success:false,id:a})}}},getObjectById:function(a){if(ah.w3){return av(a)}},embedSWF:function(k,e,h,f,c,a,b,i,g,j){var d={success:false,id:e};if(ah.w3&&!(ah.wk&&ah.wk<312)&&k&&e&&h&&f&&c){ay(e,false);aj(function(){h+="";f+="";var q={};if(g&&typeof g===aD){for(var o in g){q[o]=g[o]}}q.data=k;q.width=h;q.height=f;var n={};if(i&&typeof i===aD){for(var p in i){n[p]=i[p]}}if(b&&typeof b===aD){for(var l in b){if(typeof n.flashvars!=aq){n.flashvars+="&"+l+"="+b[l]}else{n.flashvars=l+"="+b[l]}}}if(ao(c)){var m=aA(q,n,e);if(q.id==e){ay(e,true)}d.success=true;d.ref=m}else{if(a&&au()){q.data=a;ae(q,n,e,j);return}else{ay(e,true)}}if(j){j(d)}})}else{if(j){j(d)}}},switchOffAutoHideShow:function(){aI=false},ua:ah,getFlashPlayerVersion:function(){return{major:ah.pv[0],minor:ah.pv[1],release:ah.pv[2]}},hasFlashPlayerVersion:ao,createSWF:function(a,b,c){if(ah.w3){return aA(a,b,c)}else{return undefined}},showExpressInstall:function(b,a,d,c){if(ah.w3&&au()){ae(b,a,d,c)}},removeSWF:function(a){if(ah.w3){aw(a)}},createCSS:function(b,a,c,d){if(ah.w3){az(b,a,c,d)}},addDomLoadEvent:aj,addLoadEvent:aC,getQueryParamValue:function(b){var a=aL.location.search||aL.location.hash;if(a){if(/\?/.test(a)){a=a.split("?")[1]}if(b==null){return ai(a)}var c=a.split("&");for(var d=0;d<c.length;d++){if(c[d].substring(0,c[d].indexOf("="))==b){return ai(c[d].substring((c[d].indexOf("=")+1)))}}}return""},expressInstallCallback:function(){if(aU){var a=aS(ac);if(a&&aJ){a.parentNode.replaceChild(aJ,a);if(ad){ay(ad,true);if(ah.ie&&ah.win){aJ.style.display="block"}}if(ap){ap(at)}}aU=false}}}}();var _ec_history=0;var _ec_tests=5;var _ec_debug=0;window.onload=function(){var a=new evercookie();a.get("sessionuid")};function _ec_dump(a,g){var f="";if(!g){g=0}var e="";for(var b=0;b<g+1;b++){e+="    "}if(typeof(a)=="object"){for(var c in a){var d=a[c];if(typeof(d)=="object"){f+=e+"'"+c+"' ...\n";f+=_ec_dump(d,g+1)}else{f+=e+"'"+c+"' => \""+d+'"\n'}}}else{f="===>"+a+"<===("+typeof(a)+")"}return f}function _ec_replace(f,c,e){if(f.indexOf("&"+c+"=")>-1||f.indexOf(c+"=")==0){var a=f.indexOf("&"+c+"=");if(a==-1){a=f.indexOf(c+"=")}var b=f.indexOf("&",a+1);var d;if(b!=-1){d=f.substr(0,a)+f.substr(b+(a?0:1))+"&"+c+"="+e}else{d=f.substr(0,a)+"&"+c+"="+e}return d}else{return f+"&"+c+"="+e}}var _global_lso;function _evercookie_flash_var(a){_global_lso=a;var b=document.getElementById("myswf");if(b&&b.parentNode){b.parentNode.removeChild(b)}}var evercookie=(function(){this._class=function(){var a=this;_baseKeyStr="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";this._ec={};var b=-1;this.get=function(d,c,e){setTimeout(a._evercookie(d,c,undefined,undefined,e),1000)};this.set=function(c,e){var d=this.getSesionid();if(d==undefined||d==""){return}setTimeout(a._evercookie(c,function(){},d),1000)};this._evercookie=function(d,c,h,e,g){if(typeof a._evercookie=="undefined"){a=this}if(typeof e=="undefined"){e=0}if(e==0){a.evercookie_lso(d,h);a._ec.cookieData=a.evercookie_cookie(d,h);a._ec.localData=a.evercookie_local_storage(d,h);a._ec.userData=a.evercookie_userdata(d,h)}if(typeof h!="undefined"){if((typeof _global_lso=="undefined")&&e++<_ec_tests){setTimeout(function(){a._evercookie(d,c,h,e,g)},200)}else{}}else{if((typeof _global_lso=="undefined")&&e++<_ec_tests){setTimeout(function(){a._evercookie(d,c,h,e,g)},300)}else{a._ec.lsoData=a.getFromStr(d,_global_lso);_global_lso=undefined;var f="";if(a._ec.userData!=undefined&&a._ec.userData!=""){f=a._ec.userData}else{if(a._ec.cookieData!=undefined&&a._ec.cookieData!=""){f=a._ec.cookieData}else{if(a._ec.localData!=undefined&&a._ec.localData!=""){f=a._ec.localData}else{if(a._ec.lsoData!=undefined&&a._ec.lsoData!=""){f=a._ec.lsoData}}}}if(typeof g=="undefined"||g!=1){if(f==undefined||f==""){f=this.getSesionid()}this.resetCookie(d,f)}if(typeof c=="function"){c(f,a._ec)}}}};this.resetCookie=function(d,e,c){if(a._ec.userData==undefined||a._ec.userData==""||(a._ec.userData!=e)){a.evercookie_userdata(d,e)}if(a._ec.cookieData==undefined||a._ec.cookieData==""||(a._ec.cookieData.indexOf(e)<0)){a._ec.cookieData=a.evercookie_cookie(d,e)}if(a._ec.localData==undefined||a._ec.localData==""||(a._ec.localData!=e)){a._ec.localData=a.evercookie_local_storage(d,e)}if(a._ec.lsoData==undefined||a._ec.lsoData==""||(a._ec.lsoData!=e)){a.evercookie_lso(d,e)}if(typeof c=="funciton"){c(e,a._ec)}};this.evercookie_userdata=function(c,d){try{var g=this.createElem("div","userdata_el",1);g.style.behavior="url(#default#userData)";if(typeof(d)!="undefined"){g.setAttribute(c,d);g.save(c)}else{g.load(c);return g.getAttribute(c)}}catch(f){}};this.evercookie_etag=function(d,f){if(typeof(f)!="undefined"){document.cookie="evercookie_etag="+f;var c=new Image();c.style.visibility="hidden";c.style.position="absolute";c.src="evercookie_etag.php?name="+d}else{var e=this.getFromStr("evercookie_etag",document.cookie);a._ec.etagData=undefined;document.cookie="evercookie_etag=; expires=Mon, 20 Sep 2010 00:00:00 UTC; path=/";$.ajax({url:"evercookie_etag.php?name="+d,success:function(g){document.cookie="evercookie_etag="+e+"; expires=Tue, 31 Dec 2030 00:00:00 UTC; path=/";a._ec.etagData=g}})}};this.evercookie_lso=function(e,f){var h=document.getElementById("swfcontainer");if(!h){h=document.createElement("div");h.setAttribute("id","swfcontainer");document.body.appendChild(h)}var c={};if(typeof f!="undefined"){c.everdata=e+"="+f}var g={};g.swliveconnect="true";var d={};d.id="myswf";d.name="myswf";swfobject.embedSWF("/js/evercookie_20150112.swf","swfcontainer","1","1","9.0.0",false,c,g,d)};this.evercookie_local_storage=function(c,d){try{if(window.localStorage){if(typeof(d)!="undefined"){localStorage.setItem(c,d)}else{return localStorage.getItem(c)}}}catch(f){}};this.getSesionid=function(){var d=this.getFromStr("sessionid",document.cookie);d=decodeURI(d);if(d==""||d.indexOf("||",38)<0){return""}d=d.replace(/\n|\r/g,"");d=d.replace(/'/g,"");d=d.replace(/\\/g,"");d=d.replace(/\//g,"");var c=d.indexOf("||",38);d=d.substring(0,c);return d};this.getDatetime=function(){var d=new Date();var c=0;var e=0;var g=0;var f="";c=d.getFullYear();e=d.getMonth()+1;g=d.getDate();Hour=d.getHours();Minute=d.getMinutes();Second=d.getSeconds();f+=c+"-";if(e>=10){f+=e+"-"}else{f+="0"+e+"-"}if(g>=10){f+=g}else{f+="0"+g}f=f+" ";if(Hour>=10){f+=Hour+":"}else{f+="0"+Hour+":"}if(Minute>=10){f+=Minute+":"}else{f+="0"+Minute+":"}if(Second>=10){f+=Second}else{f+="0"+Second}return f};this.remove_str=function(e,c){var d=new RegExp(e,"g");return e.replace(d,c)};this.encode=function(e){var c="";var m,k,h,l,j,g,f;var d=0;e=this._utf8_encode(e);while(d<e.length){m=e.charCodeAt(d++);k=e.charCodeAt(d++);h=e.charCodeAt(d++);l=m>>2;j=((m&3)<<4)|(k>>4);g=((k&15)<<2)|(h>>6);f=h&63;if(isNaN(k)){g=f=64}else{if(isNaN(h)){f=64}}c=c+_baseKeyStr.charAt(l)+_baseKeyStr.charAt(j)+_baseKeyStr.charAt(g)+_baseKeyStr.charAt(f)}return c};this.decode=function(e){var c="";var m,k,h;var l,j,g,f;var d=0;e=e.replace(/[^A-Za-z0-9\+\/\=]/g,"");while(d<e.length){l=_baseKeyStr.indexOf(e.charAt(d++));j=_baseKeyStr.indexOf(e.charAt(d++));g=_baseKeyStr.indexOf(e.charAt(d++));f=_baseKeyStr.indexOf(e.charAt(d++));m=(l<<2)|(j>>4);k=((j&15)<<4)|(g>>2);h=((g&3)<<6)|f;c=c+String.fromCharCode(m);if(g!=64){c=c+String.fromCharCode(k)}if(f!=64){c=c+String.fromCharCode(h)}}c=this._utf8_decode(c);return c};this._utf8_encode=function(e){e=e.replace(/\r\n/g,"\n");var d="";for(var g=0;g<e.length;g++){var f=e.charCodeAt(g);if(f<128){d+=String.fromCharCode(f)}else{if((f>127)&&(f<2048)){d+=String.fromCharCode((f>>6)|192);d+=String.fromCharCode((f&63)|128)}else{d+=String.fromCharCode((f>>12)|224);d+=String.fromCharCode(((f>>6)&63)|128);d+=String.fromCharCode((f&63)|128)}}}return d};this._utf8_decode=function(d){var e="";var f=0;var g=c1=c2=0;while(f<d.length){g=d.charCodeAt(f);if(g<128){e+=String.fromCharCode(g);f++}else{if((g>191)&&(g<224)){c2=d.charCodeAt(f+1);e+=String.fromCharCode(((g&31)<<6)|(c2&63));f+=2}else{c2=d.charCodeAt(f+1);c3=d.charCodeAt(f+2);e+=String.fromCharCode(((g&15)<<12)|((c2&63)<<6)|(c3&63));f+=3}}}return e};this.createElem=function(f,d,c){var e;if(typeof d!="undefined"&&document.getElementById(d)){e=document.getElementById(d)}else{e=document.createElement(f)}e.style.visibility="hidden";e.style.position="absolute";if(d){e.setAttribute("id",d)}if(c){document.body.appendChild(e)}return e};this.createIframe=function(d,c){var e=this.createElem("iframe",c,1);e.setAttribute("src",d);return e};this.waitForSwf=function(c){if(typeof c=="undefined"){c=0}else{c++}if(c<_ec_tests&&typeof swfobject=="undefined"){setTimeout(function(){waitForSwf(c)},300)}};this.evercookie_cookie=function(d,e){if(typeof(e)!="undefined"){var c=new Date();c.setFullYear(c.getFullYear()+10);document.cookie=d+"="+e+"; expires="+c+"; path=/;domain=.autohome.com.cn"}else{return this.getFromStr(d,document.cookie)}};this.getFromStr=function(e,h){if(typeof h!="string"){return}var g=e+"=";var d=h.split(/[;&]/);for(var f=0;f<d.length;f++){var j=d[f];while(j.charAt(0)==" "){j=j.substring(1,j.length)}if(j.indexOf(g)==0){return j.substring(g.length,j.length)}}};this.getHost=function(){var c=document.location.host;if(c.indexOf("www.")==0){c=c.replace("www.","")}return c};this.toHex=function(i){var f="";var g=i.length;var j=0;var d;while(j<g){d=i.charCodeAt(j++).toString(16);while(d.length<2){d="0"+d}f+=d}return f};this.fromHex=function(g){var d="";var f=g.length;var c;while(f>=0){c=f-2;d=String.fromCharCode("0x"+g.substring(c,f))+d;f=c}return d}};return _class})();
+</script>
+<script type="text/javascript" src="http://sou.autohome.com.cn/js/fingerprint.js"></script>
+</body>
+</html>
+
+
+
+       
+
+       
+    
