@@ -37,9 +37,9 @@ for line in f:
 f.close()
 
 
-def priceWeight(price, dArray):
-    weightmp = [[header[i[0]], i[1]] for i in sorted([[n, Zerones(price, SettingTerval[header[n]])] for n in dArray], key=lambda x:x[1])]
-    print '\n'.join(['%s\t%2f' % (i[0], i[1]) for i in weightmp])
+def priceWeight(price, dArray, rev=False):
+    weightmp = [[header[i[0]], i[1]] for i in sorted([[n, Zerones(price, SettingTerval[header[n]])] for n in dArray], key=lambda x:x[1], reverse=rev)]
+    return weightmp
 
 
 def Zerones(price, interval):
@@ -66,6 +66,7 @@ SettingTerval = dict(zip(header, Terval))
 #print ','.join(map(lambda x: header[x], settingstd))
 #exit()
 ## Gen Summary Stat ##
+m = open('competitive.tsv', 'w')
 f = open('aa.txt')
 f.readline()
 for line in f:
@@ -79,6 +80,8 @@ for line in f:
     less = filter(lambda x: x in Settingstd, [n for n, item in enumerate(lines) if not float(item)])
     more = filter(lambda x: not (x in Settingstd), [n for n, item in enumerate(lines) if float(item)])
     #print ','.join([header[item] for n,item in enumerate(more)])
-    print cname[1], price, len(less), len(more)
     priceWeight(price, more)
+    #print '\t'.join(['%s,%2f' % (i[0], i[1]) for i in priceWeight(price, more)[:5]])
+    m.write("%s\n" % ('\t'.join([cname[1], str(price), str(len(less)), str(len(more)), ','.join(['%s' % i[0] for i in priceWeight(price, more)[:5]]), ','.join(['%s' % i[0] for i in priceWeight(price, less, rev=True)[:5]])])))
 f.close()
+m.close()
